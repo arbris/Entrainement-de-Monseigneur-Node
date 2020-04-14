@@ -10,5 +10,15 @@ let age;
 4 = "mineur"
 18 = "majeur"
 
-let bleu = A
-"La couleur est bleu"
+let couleur = "bleu" = A;
+if (couleur = "bleu") {
+    console.log("La couleur est bleu");
+} else if (couleur = "rouge") {
+    console.log("La couleur est rouge");
+} else if (couleur = "jaune") {
+    console.log("La couleur est jaune");
+} else if (couleur = "vert") {
+    console.log("La couleur est vert");
+} else {
+    console.log("La couleur était bleu");
+}
