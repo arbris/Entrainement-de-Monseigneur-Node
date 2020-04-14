@@ -22,3 +22,4 @@ if (couleur = "bleu") {
 } else {
     console.log("La couleur était bleu");
 }
+
