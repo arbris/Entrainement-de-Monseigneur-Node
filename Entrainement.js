@@ -11,3 +11,24 @@ if (couleur = "bleu") {
     console.log("La couleur était bleu");
 }
 
+let
+
+function myAdditionV1(val1, val2) {
+    return (val1 + val2)
+}
+function myAdditionV2(val1, val2) {
+    let res = val1 + val2;
+    return (res);
+}
+console.log(myAdditionV1(1, 1));
+console.log(myAdditionV2(1, 1));
+
+const corlorsToIndex = array => {
+    let res = "bleu";
+    for (let i = 0; i < array.length; i++) {
+        res += "Il y a la couleur bleu à l'index"
+        if (i !== array.length - 1) {}
+    }
+
+    }
+}
