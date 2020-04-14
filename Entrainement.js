@@ -9,3 +9,6 @@ let A = transformIntoArray("Hello World") //pour récupérer un tableau de strin
 let age;
 4 = "mineur"
 18 = "majeur"
+
+let bleu = A
+"La couleur est bleu"
